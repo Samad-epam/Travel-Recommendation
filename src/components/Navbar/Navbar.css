@@ -1,0 +1,102 @@
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #d2d2d2;
+    color: rgb(26, 26, 26);
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .navbar-logo img {
+    height: 70px; /* Adjust the size of the logo */
+    width: 110%;
+  }
+  
+  .search-bar-div {
+    position: relative;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  
+  .search-bar {
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    width: 300px;
+    transition: width 0.3s ease-in-out;
+  }
+  
+  .search-bar:focus {
+    width: 400px; /* Expand the search bar when focused */
+  }
+  
+  .search-icon {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color: #333;
+  }
+  
+  .search-icon:hover {
+    color: #0f0f0f; /* Yellow on hover */
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .navbar-links li {
+    font-size: 1rem;
+    font-weight: 750;
+}
+
+.navbar-links a {
+      padding: 10px;
+    color: rgb(35, 35, 35);
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+    border-radius: 30px;
+  }
+  
+  .navbar-links a:hover {
+    /* color: #FFC93C; */
+    background-color: #33333354;
+    /* padding: 7px; */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .navbar-left {
+      width: 100%;
+      justify-content: space-between;
+    }
+  
+    .search-bar {
+      width: 100%; /* Full width on smaller screens */
+    }
+  
+    .navbar-links {
+      width: 100%;
+      justify-content: space-around;
+      margin-top: 1rem;
+    }
+  }
+  

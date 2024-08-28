@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Qutub Minar",
+        "description": "A minaret and a UNESCO World Heritage Site in Delhi, India, known for its intricate carvings and towering height.",
+        "image": "https://t4.ftcdn.net/jpg/04/14/96/55/240_F_414965542_INsbjDDGtlqAPS2lGlkQxkuQc1JmUWVc.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Red Fort",
+        "description": "A historic fortification in the city of Delhi, India, known for its massive red sandstone walls and Mughal architecture.",
+        "image": "https://t3.ftcdn.net/jpg/00/78/50/86/240_F_78508684_LkE6xVJPw8yoJ9ToZaWbCmukBvaLeZJq.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Taj Mahal",
+      "description": "A white marble mausoleum located in Agra, India, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "image": "https://t4.ftcdn.net/jpg/02/85/58/81/240_F_285588193_5TEUkcKK3zmkdm7eBKvwFiIIMkn1Daf9.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Jaipur City Palace",
+      "description": "A royal residence in the city of Jaipur, Rajasthan, India, featuring a blend of Rajput and Mughal architectural styles.",
+      "image": "https://t4.ftcdn.net/jpg/02/57/94/47/240_F_257944720_3Dzk4FwOWBl5O5KZSBaKHyUXpOm7x4jr.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Gateway of India",
+      "description": "An iconic monument located in Mumbai, India, built to commemorate the visit of King George V and Queen Mary to India.",
+      "image": "https://t3.ftcdn.net/jpg/00/00/70/60/240_F_706053_GzMnxF3DfSlZMJbuhVJFYzexkYLnSO.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Hampi",
+      "description": "A UNESCO World Heritage Site in Karnataka, India, known for its ancient temples, ruins, and stunning landscapes.",
+      "image": "https://t3.ftcdn.net/jpg/00/25/12/50/240_F_25125007_p4p7f35Eag6jnmtQzFwAHQHxTGYyzBSf.jpg"
+    }
+  ]
+  

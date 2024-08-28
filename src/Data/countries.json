@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Taj Mahal, India",
+    "description": "A white marble mausoleum located in Agra, India, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "image": "https://t4.ftcdn.net/jpg/02/85/58/81/240_F_285588193_5TEUkcKK3zmkdm7eBKvwFiIIMkn1Daf9.jpg",
+    "countryName":"India"
+  },
+  {
+    "id": 2,
+    "title": "Paris, France",
+    "description": "The City of Light, known for its art, fashion, and gastronomy. Visit the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.",
+    "image": "https://as2.ftcdn.net/v2/jpg/02/96/15/35/1000_F_296153501_B34baBHDkFXbl5RmzxpiOumF4LHGCvAE.jpg",
+    "countryName": "France"
+  },
+  {
+    "id": 3,
+    "title": "Kyoto, Japan",
+    "description": "A city rich in history and culture, famous for its traditional wooden houses, temples, and beautiful gardens.",
+    "image": "https://t3.ftcdn.net/jpg/03/08/47/16/240_F_308471636_0mGYhLzK75UoIIxG5JOT5XgeQXKhhPPX.jpg",
+    "countryName": "Japan"
+  },
+  {
+    "id": 4,
+    "title": "New York City, USA",
+    "description": "A bustling metropolis known for its iconic landmarks such as Times Square, Central Park, and the Statue of Liberty.",
+    "image": "https://t4.ftcdn.net/jpg/02/68/26/79/240_F_268267939_WXOcswupAFfqKjohAv8J2AodIY0yBBcY.jpg",
+    "countryName": "USA"
+  },
+  {
+    "id": 5,
+    "title": "Cape Town, South Africa",
+    "description": "A stunning coastal city with a diverse culture, beautiful beaches, and landmarks like Table Mountain and the V&A Waterfront.",
+    "image": "https://t4.ftcdn.net/jpg/01/84/39/17/240_F_184391725_IRgXGVATFIz8u04ItcpyilSBOlT2TSlc.jpg",
+    "countryName": "South Africa"
+  },
+  {
+    "id": 6,
+    "title": "Sydney, Australia",
+    "description": "Known for its stunning harbor, Sydney Opera House, and Bondi Beach. Enjoy a mix of urban and natural attractions.",
+    "image": "https://t4.ftcdn.net/jpg/03/56/70/37/240_F_356703717_KwwdYG7MXCwV6TORIMxKUBN1lb0o1BTB.jpg",
+    "countryName": "Australia"
+  },
+  {
+    "id": 7,
+    "title": "Rome, Italy",
+    "description": "A city steeped in history with landmarks like the Colosseum, Roman Forum, and Vatican City.",
+    "image": "https://t3.ftcdn.net/jpg/02/82/38/10/240_F_282381041_O7uUYn2MgQHcltBSnRnVf2daOZDR9nmO.jpg",
+    "countryName": "Italy"
+  },
+  {
+    "id": 8,
+    "title": "Rio de Janeiro, Brazil",
+    "description": "Famous for its vibrant culture, beautiful beaches, and iconic landmarks like Christ the Redeemer and Sugarloaf Mountain.",
+    "image": "https://t4.ftcdn.net/jpg/01/09/60/11/240_F_109601187_QVo9iJLPJc3HqZOcgJBk4daB86hgdbdu.jpg",
+    "countryName": "Brazil"
+  },
+  {
+    "id": 9,
+    "title": "Dubai, UAE",
+    "description": "A modern city known for its luxury shopping, ultramodern architecture, and landmarks such as the Burj Khalifa and Palm Jumeirah.",
+    "image": "https://t4.ftcdn.net/jpg/02/44/69/29/240_F_244692979_t2oCOiISldR1fynEcARDEGr1jWEIF12z.jpg",
+    "countryName": "Japan"
+  },
+  {
+    "id": 10,
+    "title": "Barcelona, Spain",
+    "description": "A city famous for its unique architecture by Antoni Gaudí, including the Sagrada Família and Park Güell.",
+    "image": "https://t3.ftcdn.net/jpg/00/39/35/34/240_F_39353446_V6oxEpHcvX8KtIokat2itkuzGFCNoDVA.jpg",
+    "countryName": "Japan"
+  },
+  {
+    "id": 11,
+    "title": "Istanbul, Turkey",
+    "description": "A city that straddles two continents, known for its rich history, the Hagia Sophia, and the Grand Bazaar.",
+    "image": "https://t3.ftcdn.net/jpg/00/87/16/40/240_F_87164057_AAF0KRfPw8ifqoBRjyxOAgzKcvKux0Hy.jpg",
+    "countryName": "Japan"
+  },
+  {
+    "id": 12,
+    "title": "Bangkok, Thailand",
+    "description": "A vibrant city known for its bustling street life, ornate temples, and vibrant nightlife.",
+    "image": "https://t3.ftcdn.net/jpg/02/09/63/12/240_F_209631257_O88aKMqb9XM7hZrOAjcu8PsMDPyYypGD.jpg",
+    "countryName": "Japan"
+  }
+]
